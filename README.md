@@ -35,6 +35,27 @@ Our project includes a range of features, including a customizable product catal
 - View Product detail 
 - Modify cart
 
+## Other 
+### Web-Security 
+#### Prevent some website vulnerable error :
+- XSS
+- CSRF
+- Brute Force
+- HttpOnly 
+### Applying Design patterns 
+- Factory method
+- Iterator 
+- Strategy 
+- State 
+- Facade
+- Observer
+- Singleton 
+## Other 
+- Forgot password by username through email verification
+- Register and Login by google Account
+- Get order notification by demmand through email
+
+
 
 ## 🔗 Link Website
 
